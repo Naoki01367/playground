@@ -13,3 +13,16 @@ while i <= 10
   i = i + 1
 end
 #doは省略可
+
+=begin
+times文
+回数が決まっているときはtimes文が便利
+繰り返す回数 .times do
+  繰り返す処理
+end
+=end
+100.times do
+  print "I'll be a rich\n"
+end
+
+
