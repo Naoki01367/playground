@@ -17,3 +17,9 @@ print "表面積=", area , "\n"
 print "体積=", volume, "\n"
 
 
+
+
+
+
+
+
